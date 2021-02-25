@@ -42,8 +42,15 @@
             <div class="my-info">
                 <div class="edu-info">
                     <div>
+                        <span class="iconfont">&#xe772;</span>
+                        <span>求职意向</span>
+                    </div>
+                    <p>web前端开发</p>
+                </div>
+                <div class="edu-info">
+                    <div>
                         <span class="iconfont">&#xe628;</span>
-                        <span>大学经历</span>
+                        <span>教育经历</span>
                     </div>
                     <p><span>就读大学:</span>广西科技大学</p>
                     <p><span>所学专业:</span>数字媒体技术专业</p>
@@ -60,7 +67,7 @@
                 </div>
                 <div class="edu-info">
                     <div>
-                        <span class="iconfont">&#xe628;</span>
+                        <span class="iconfont">&#xe64f;</span>
                         <span>做过的完整的项目</span>
                     </div>
                     <p>利用html、css、js、jq，ajax，nodejs、mongoDB数据库等做过一个简单的多人博客系统，github链接:<span><a href="https://github.com/cutepd66/myBlog">https://github.com/cutepd66/myBlog</a></span></p>
